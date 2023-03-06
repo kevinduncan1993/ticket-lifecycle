@@ -56,6 +56,6 @@ In the above example, you see we are working through the ticket. We can now see 
 <img src="https://i.imgur.com/5fHVNwK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-we have now successfully resolved the ticket. The ticket will now appear in the closed tickets tab. 
+Once you have finally resloved the ticket you will select the resolved function and click on the post reply button. The ticket should then appear in the closed ticket section, like the above example. 
 </p>
 <br />
